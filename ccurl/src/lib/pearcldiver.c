@@ -2,7 +2,7 @@
 #include "claccess/clcontext.h"
 #include "constants.h"
 #include "hash.h"
-#include "ccurl/pearl.cl.h"
+#include "pearl.cl.h"
 #include "pearl_diver.h"
 #include <assert.h>
 #include <stdio.h>
